@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 1920px;
+
+}
+
+#Title {
+    font-size: 72px;
+    font-weight: 700;
+    font-family: Lato;
+    text-align: center;
+}
+
+#MainDescription {
+    color: #FF8000;
+    font-family: Lato;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#MainDescription span {
+    display: block;
+}
+
+#Section1 {
+    width: 763px;
+}
+
+#SectionTitle {
+    color: #D9AE00;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 74px;
+    margin-top: 63px;
+}
+
+#Description {
+    color: #6D81B4;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 74px;
+    margin-top: 24px;
+}
+
+#Description span {
+    display: block;
+}
+
+#BigBang {
+    margin-top: 30px;
+    margin-left: 67px;
+}
+
+#Section2 {
+    background-color: #FFCEBE;
+
+    /* Border Side Colors */
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+
+    padding: 64px 64px;
+    width: 1007px;
+    margin-left: 74px;
+    margin-top: 101px;
+    align-items: center;
+
+}
+
+#SectionTitle2 {
+    color: #F44E50;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: Lato;
+    text-align: center;
+}
+
+#Description2 {
+    color: #8B2B2C;
+    font-size: 20px;
+    font-family: Lato;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#Description2 span {
+    display: block;
+}
+
+#BlackHole {
+    margin-top: 30px;
+}
+
+#Section3 {
+    width: 763px;
+    margin-left: 74px;
+}
+
+#SectionTitle3 {
+    color: #4716E4;
+    font-size: 40px;
+    font-family: Lato;
+    font-weight: 700;
+    text-align: right;
+    margin-top: 101px;
+    margin-bottom: 24px;
+}
+
+#Description3 {
+    color: #616161;
+    font-size: 24px;
+    font-family: Lato;
+    font-weight: 400;
+    text-align: right;
+    padding: 24px 24px;
+    background-color: #FFC1E3;
+    border: 3px solid #FF5DA3;
+    margin-bottom: 30px;
+
+}
+
+#Description3 span {
+    display: block;
+}
+
+#KeyPoint {
+    color: #414651;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+}
+
+#Options ul {
+    list-style-type: none;
+    list-style-image: url("../images/Rectangle 2332.png");
+    
+}
+
+#Li1 {
+    margin-bottom: 8px;
+}
+
+#Li2 {
+    margin-bottom: 8px;
+}
